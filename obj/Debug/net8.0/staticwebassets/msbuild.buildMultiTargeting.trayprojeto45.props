@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\trayprojeto45.props" />
+</Project>
